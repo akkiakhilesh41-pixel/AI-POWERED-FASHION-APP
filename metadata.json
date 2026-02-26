@@ -1,0 +1,7 @@
+{
+  "name": "Remix: LUMIÈRE AI Fashion Stylist",
+  "description": "A premium AI-powered fashion recommendation system that analyzes your wardrobe and suggests perfect matching outfits with purchase links.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
