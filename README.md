@@ -1,4 +1,4 @@
-This is Smart Guy Akhilesh
+
 , Click here to view this Prototype: https://ai.studio/apps/685475b4-5934-4a6f-b7c2-6e6d8017033a
 # Run and deploy your AI Studio app
 
